@@ -1,0 +1,7 @@
+{
+  "appName": "Lex Shell App",
+  "version": "1.0",
+  "launchMode": "dev",
+  "autoInjectLex": true,
+  "entry": "public/index.html"
+}

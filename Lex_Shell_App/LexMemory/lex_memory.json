@@ -1,0 +1,5 @@
+{
+  "bootInstructions": "Auto-inject Lex commands and system hooks at startup.",
+  "defaultUser": "Lacy",
+  "mode": "dev"
+}
