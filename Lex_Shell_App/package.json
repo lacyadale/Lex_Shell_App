@@ -1,0 +1,27 @@
+{
+  "name": "lex-shell",
+  "version": "1.0.0",
+  "description": "Optimized Lex Shell for Vercel deployment",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site deployed'",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "lex",
+    "shell",
+    "launcher",
+    "vercel",
+    "optimized"
+  ],
+  "author": "Lacy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/lex-shell"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
